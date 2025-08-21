@@ -1,7 +1,7 @@
 import React from "react";
 import BannerImg from "../assets/image.png"; // Adjust the path as necessary
 import logo from "../assets/Logo.png"; // Adjust the path as necessary
-import rectangle from "../assets/rectangle.png"; // Adjust the path as necessary
+import rectangle from "../assets/Rectangle.png"; // Adjust the path as necessary
 import menu from "../assets/menu.png"; // Adjust the path as necessary
 import search from "../assets/icon.png"; // Adjust the path as necessary
 import icon_button from "../assets/icon_button.png"; // Adjust the path as necessary
