@@ -5,7 +5,7 @@ import blueWave from "../assets/blue_wave.png";
 import yellowWave from "../assets/yellow_wave.png";
 import slider from "../assets/CGTtimelineSlderImg.png";
 import slider2 from "../assets/CGTtimelineslider2.png";
-import line from "../assets/line.png";
+// import line from "../assets/line.png";
 
 const slides = [
   {
