@@ -4,7 +4,7 @@ import logo from "../assets/Logo.png"; // Adjust the path as necessary
 import rectangle from "../assets/Rectangle.png"; // Adjust the path as necessary
 import menu from "../assets/Menu.png"; // Adjust the path as necessary
 import search from "../assets/Icon.png"; // Adjust the path as necessary
-import icon_button from "../assets/Icon_button.png"; // Adjust the path as necessary
+import icon_button from "../assets/Icon_Button.png"; // Adjust the path as necessary
 
 export default function Banner() {
   return (
