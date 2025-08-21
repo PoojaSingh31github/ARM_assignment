@@ -1,0 +1,39 @@
+@import "tailwindcss"; 
+.custom-carousel .slick-dots li button:before {
+  color: #4C4F54 !important;
+  font-size: 12px !important; 
+  opacity: 0.6;
+}
+.custom-carousel .slick-dots li.slick-active button:before {
+  color: #4C4F54 !important;
+  opacity: 1; 
+}
+ 
+.custom-carousel .slick-slide {
+  transition: all 0.5s ease;
+  opacity: 0.6;
+  filter: blur(1.5px);    
+  transform: scale(0.7); 
+}
+
+.custom-carousel .slick-center {
+  opacity: 1 !important;
+  filter: blur(0) !important;
+  transform: scale(1); 
+  z-index: 10;
+}
+
+.leaders-carousel .slick-dots li button:before {
+  color: #ffffff !important;
+  font-size: 12px !important; 
+  opacity: 0.6;
+}
+.leaders-carousel .slick-dots li.slick-active button:before {
+  color: #ffffff !important;
+  opacity: 1; 
+}
+
+
+
+
+
